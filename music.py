@@ -104,7 +104,7 @@ async def stop(ctx):
     else:
         await ctx.send("The bot is not playing anything at the moment.")
 
-bot.run('OTk5MTkxNDMwOTU2MzMxMDU5.GioXEK.Sgd9tdwseq-3nHTvKB7XAaF4guKqlkyIkbkOVM')
+bot.run('discord_token') # removed to retain privacy
 
 
 
